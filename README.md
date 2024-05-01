@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Dart, Flutter**
 
-- 💬 Ask me about **Android & Ios , MEARN**
-
 - 📫 How to reach me **theyernar@proton.me**
 
 <h3 align="left">Connect with me:</h3>
