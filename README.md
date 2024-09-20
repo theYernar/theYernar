@@ -2,10 +2,6 @@
 <h3 align="center">A passionate Mobile developer from Kazakhstan🇰🇿</h3>
 <img align="right" alt="Lofi" width="500" src="https://78.media.tumblr.com/95f02d55724b631531d0b32dbd001297/tumblr_p177vracYv1wh4uq0o1_1280.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theyernar&label=Profile%20views&color=0e75b6&style=flat" alt="theyernar" /> </p>
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
