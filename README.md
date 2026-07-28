@@ -11,25 +11,12 @@
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- About Me -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
-
-```yaml
-name: Yernar Almasuly
-location: Kazakhstan
-role: Flutter Mobile Developer
-focus: Building cross-platform mobile apps with clean architecture
-currently_learning: Advanced state management & native integrations
-fun_fact: I debug with print() first, then pretend I didn't 😄
-```
-
-<br>
 
 <!-- Tech Stack -->
-## 🛠️ &nbsp;Tech Stack
+## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,git,github,bitbucket,postman,figma&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,apple,git,github,bitbucket,postman,figma&theme=dark" alt="Tech Stack" />
 </p>
 
 <br>
@@ -38,7 +25,7 @@ fun_fact: I debug with print() first, then pretend I didn't 😄
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- GitHub Stats -->
-## 📊 &nbsp;GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <a href="https://github.com/theYernar">
