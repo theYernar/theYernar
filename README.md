@@ -16,7 +16,7 @@
 
 ```yaml
 name: Yernar Almasuly
-location: Kazakhstan 🇰🇿
+location: Kazakhstan
 role: Flutter Mobile Developer
 focus: Building cross-platform mobile apps with clean architecture
 currently_learning: Advanced state management & native integrations
