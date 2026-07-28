@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/theYernar">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&repeat=true&width=400&height=30&lines=Flutter+Mobile+Developer+%F0%9F%87%B0%F0%9F%87%BF" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&repeat=true&width=400&height=30&lines=Flutter+Mobile+Developer" alt="Typing SVG" />
   </a>
 </p>
 
