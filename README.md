@@ -28,60 +28,71 @@ fun_fact: I debug with print() first, then pretend I didn't 😄
 <!-- Tech Stack -->
 ## 🛠️ &nbsp;Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-      <br><b>Flutter</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
-      <br><b>Dart</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-      <br><b>Go</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br><b>Python</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br><b>Java</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
-      <br><b>C#</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br><b>Git</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br><b>Linux</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br><b>Figma</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-      <br><b>Firebase</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br><b>HTML</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br><b>CSS</b>
-    </td>
-  </tr>
-</table>
+### 📱 &nbsp;Core
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="Dart" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="Flutter" />
+</p>
+
+### 🏗️ &nbsp;Architecture & Principles
+
+```
+Clean Architecture  •  MVVM  •  MVC  •  SOLID  •  DRY  •  KISS  •  OOP
+```
+
+### ⚡ &nbsp;State Management
+
+```
+BLoC / Cubit  •  Provider
+```
+
+### 🔥 &nbsp;Firebase
+
+```
+Notifications  •  Deep Linking  •  Authentication  •  Firestore
+```
+
+### 🧩 &nbsp;Code Generation
+
+```
+Freezed  •  JSON Serializable
+```
+
+### 💾 &nbsp;Local Storage
+
+```
+Isar  •  Hive  •  SharedPreferences  •  Secure Storage
+```
+
+### 🧭 &nbsp;Navigation
+
+```
+GoRouter  •  AutoRoute  •  Navigator
+```
+
+### 🌐 &nbsp;Backend Integration
+
+```
+REST API  •  WebSocket  •  WebRTC  •  JSON Parsing  •  http  •  dio
+```
+
+### 🚀 &nbsp;Publishing & Distribution
+
+```
+TestFlight  •  App Store  •  Google Play
+```
+
+### 🔧 &nbsp;Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=bitbucket" height="40" alt="Bitbucket" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" />
+</p>
 
 <br>
 
