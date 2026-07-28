@@ -14,9 +14,7 @@
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase&theme=dark" alt="Core" />&nbsp;
-  <img src="https://cdn.simpleicons.org/apple/white" height="48" alt="Apple" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,postman,figma&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,apple,git,github,bitbucket,postman,figma&theme=dark" alt="Tech Stack" />
 </p>
 
 <br>
