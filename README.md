@@ -1,20 +1,134 @@
-<h3 align="center">A passionate Mobile developer from Kazakhstan🇰🇿</h3>
-<img align="right" alt="Lofi" width="480" src="https://78.media.tumblr.com/95f02d55724b631531d0b32dbd001297/tumblr_p177vracYv1wh4uq0o1_1280.gif">
+<!-- Header Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=220&section=header&text=Yernar%20Almasuly&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Flutter%20Mobile%20Developer%20%F0%9F%87%B0%F0%9F%87%BF&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/java-icon-378x512-w60vlu77.png" alt="java" width="35" /> </a> 
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://github.com/theYernar">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%93%B1+Building+beautiful+mobile+experiences;%F0%9F%92%99+Dart+%7C+Flutter+%7C+Clean+Architecture;%F0%9F%9A%80+Turning+ideas+into+pixel-perfect+apps" alt="Typing SVG" />
+  </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theyernar&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="theyernar" /></p>
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- About Me -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
+
+```yaml
+name: Yernar Almasuly
+location: Kazakhstan 🇰🇿
+role: Flutter Mobile Developer
+focus: Building cross-platform mobile apps with clean architecture
+currently_learning: Advanced state management & native integrations
+fun_fact: I debug with print() first, then pretend I didn't 😄
+```
+
+<br>
+
+<!-- Tech Stack -->
+## 🛠️ &nbsp;Tech Stack
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+      <br><b>Flutter</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
+      <br><b>Dart</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+      <br><b>Go</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br><b>Python</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br><b>Java</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+      <br><b>C#</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br><b>Git</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br><b>Linux</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br><b>Figma</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+      <br><b>Firebase</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br><b>HTML</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br><b>CSS</b>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- GitHub Stats -->
+## 📊 &nbsp;GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/theYernar">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theyernar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="Yernar's GitHub Stats" />
+  </a>
+  <a href="https://github.com/theYernar">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theyernar&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/theYernar">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=theyernar&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+  </a>
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/theYernar">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=theyernar&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" alt="Contribution Graph" />
+  </a>
+</p>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Snake Animation -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theYernar/theYernar/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theYernar/theYernar/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/theYernar/theYernar/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=theyernar&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=120&section=footer" />
