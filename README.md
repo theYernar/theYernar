@@ -1,13 +1,6 @@
 <!-- Header Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=220&section=header&text=Yernar%20Almasuly&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Flutter%20Mobile%20Developer%20%F0%9F%87%B0%F0%9F%87%BF&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://github.com/theYernar">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%93%B1+Building+beautiful+mobile+experiences;%F0%9F%92%99+Dart+%7C+Flutter+%7C+Clean+Architecture;%F0%9F%9A%80+Turning+ideas+into+pixel-perfect+apps" alt="Typing SVG" />
-  </a>
-</p>
-
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -16,7 +9,9 @@
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,apple,git,github,bitbucket,postman,figma&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase&theme=dark" alt="Core" />&nbsp;
+  <img src="https://cdn.simpleicons.org/apple/white" height="48" alt="Apple" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,postman,figma&theme=dark" alt="Tools" />
 </p>
 
 <br>
