@@ -1,8 +1,13 @@
 <!-- Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=220&section=header&text=Yernar%20Almasuly&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Flutter%20Mobile%20Developer%20%F0%9F%87%B0%F0%9F%87%BF&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=220&section=header&text=Yernar%20Almasuly&fontSize=42&fontColor=58a6ff&fontAlignY=40&animation=fadeIn" />
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p align="center">
+  <a href="https://github.com/theYernar">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&repeat=true&width=400&height=30&lines=Flutter+Mobile+Developer+%F0%9F%87%B0%F0%9F%87%BF" alt="Typing SVG" />
+  </a>
+</p>
+
+---
 
 
 <!-- Tech Stack -->
@@ -16,8 +21,7 @@
 
 <br>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 <!-- GitHub Stats -->
 ## GitHub Stats
@@ -44,8 +48,7 @@
   </a>
 </p>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 <!-- Snake Animation -->
 <p align="center">
